@@ -354,7 +354,7 @@ label {
   width: 100%;
   top: 0;
   position: fixed;
-  background: url('http://placehold.it/1600x1600') center center no-repeat; 
+  background: url('http://i.imgur.com/gXgacDZ.jpg') center center no-repeat; /* image source https://download.unsplash.com/photo-1430132594682-16e1185b17c5 */
   background-size: cover;
   z-index: -100;
 }
